@@ -8,7 +8,7 @@ All-in-One_Package:
 올인원 패키지 강의 자료
 
 YDK:
-강사님과 함께 진행하는 ipynb 파일 및 데이터
+강사님과 함께 진행하는 ipynb 파일 및 데이터 모음
 
 Online lecture:
-
+온라인 강의에서 필요한 ipynb 파일 및 데이터 모음
