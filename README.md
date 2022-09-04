@@ -12,3 +12,6 @@ YDK:
 
 Online lecture:
 온라인 강의에서 필요한 ipynb 파일 및 데이터 모음
+
+Key_Data_Analysis_Kindergarten:
+
