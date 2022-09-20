@@ -15,3 +15,6 @@ Online lecture:
 
 Key_Data_Analysis_Kindergarten:
 온라인 강의에서 필요한 데이터 모음
+
+SQL:
+강사님과 함께 진행하는 sql 파일 및 데이터 모음
