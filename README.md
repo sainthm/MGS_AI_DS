@@ -1,21 +1,37 @@
 # MGS_AI_DS
 ## Megabyte School course repository - AI_Data Scientist
 
-## All-in-One_Package:
+<br>
+
+### All-in-One_Package:
 - 올인원 패키지 강의 자료
 
-## YDK:
+<br>
+
+### YDK:
 - 강사님과 함께 진행하는 ipynb 파일 및 데이터 모음
 
-## Online lecture:
+<br>
+
+### Online lecture:
 - 온라인 강의에서 필요한 ipynb 파일 및 데이터 모음
 
-## Key_Data_Analysis_Kindergarten:
+<br>
+
+### Key_Data_Analysis_Kindergarten:
 - 온라인 강의에서 필요한 데이터 모음
 
-## SQL:
+<br>
+
+### SQL:
 - 강사님과 함께 진행하는 sql 파일 및 데이터 모음
 
-## git:
+<br>
+
+### git:
 - codingapple: codingapple에서 진행하는 강의에 대한 대략적인 요약 내용(작성 완료 이후 새로운 repository로 이동 예정, Main URL: https://codingapple.com/)
 - 강사님과 함께 진행하는 git 관련 폴더 생성 예정
+
+
+<br>
+<br>
