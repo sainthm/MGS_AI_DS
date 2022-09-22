@@ -30,10 +30,9 @@
 
 ### git:
 - dev: 
- - 강사님과 함께 진행하는 git 테스트 파일 모음
+   - 강사님과 함께 진행하는 git 테스트 파일 모음
 
 - codingapple: codingapple에서 진행하는 강의에 대한 대략적인 요약 내용(작성 완료 이후 새로운 repository로 이동 예정, Main URL: https://codingapple.com/)
-- 강사님과 함께 진행하는 git 관련 폴더 생성 예정
 
 
 <br>
