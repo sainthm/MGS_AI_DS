@@ -66,7 +66,13 @@ if __name__=='__main__':
 
 ### Link.
 
+<!-- `<a href="https://www.google.com/">Go to google</a>` -->
+
 `<a href="https://www.google.com/">Go to google</a>`
+
+<br>
+
+<!-- [Go to google](https://www.google.com/) -->
 
 [Go to google](https://www.google.com/)
 
@@ -74,7 +80,13 @@ if __name__=='__main__':
 
 ### Image.
 
+<!-- `<img src="rabbit.png" alt="The rabbit is sitting on the chair"> -->
+
 `<img src="rabbit.png" alt="The rabbit is sitting on the chair">
+
+<br>
+
+<!-- ![The rabbit is sitting on the chair](rabbit.png)` -->
 
 ![The rabbit is sitting on the chair](rabbit.png)`
 
