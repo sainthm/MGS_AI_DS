@@ -80,14 +80,14 @@ if __name__=='__main__':
 
 ### Image.
 
-<!-- <img src="rabbit.png" alt="The rabbit is sitting on the chair" width="300"/> -->
+<!-- `<img src="rabbit.png" alt="The rabbit is sitting on the chair" width="300"/>` -->
 
 
 <img src="rabbit.png" alt="The rabbit is sitting on the chair" width="300"/>
 
 <br>
 
-<!-- ![The rabbit is sitting on the chair](rabbit.png) -->
+<!-- `![The rabbit is sitting on the chair](rabbit.png)` -->
 
 
 <br>
