@@ -35,7 +35,31 @@ This is paragraph1.
 
 This is how to `Emphasize` some text.
 
+`Some text`
 
+
+```python
+def hello():
+    return "hello"
+
+if __name__=='__main__':
+    result = hello()
+    print(result)
+```
+
+### Link.
+
+`<a href="https://www.google.com/">Go to google</a>`
+
+[Go to google](https://www.google.com/)
+
+
+
+### Image.
+
+`<img src="rabbit.png" alt="The rabbit is sitting on the chair">
+
+![The rabbit is sitting on the chair](rabbit.png)`
 
 
 
