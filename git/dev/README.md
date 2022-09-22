@@ -87,9 +87,8 @@ if __name__=='__main__':
 
 <br>
 
-<!-- ![The rabbit is sitting on the chair](rabbit.png | width=300) -->
+<!-- ![The rabbit is sitting on the chair](rabbit.png) -->
 
-![The rabbit is sitting on the chair](rabbit.png | width=300)
 
 <br>
 <br>
