@@ -1,13 +1,27 @@
-# import matplotlib.pyplot as plt
+CH02_01. 파이썬의 특징
 
-# help(plt.hist)
+CH02_02. 변수
 
+CH02_03. 자료형_숫자형
 
+CH02_04. 자료형_문자형
 
-error = 50.0
-while error > 1:
-    error = error /4
-    if error ==3.125:
-        break
-    print(error)
-print("finish")
+CH02_05. 자료형_리스트
+
+CH02_06. 자료형_튜플
+
+CH02_07. 자료형_딕셔너리
+
+CH02_08. 자료형_셋
+
+CH02_09. 제어문_for
+
+CH02_10. 제어문_while
+
+CH02_11. 제어문_if
+
+CH02_12. List Comprehension
+
+CH02_13. 함수
+
+CH02_14. 외부 라이브러리 사용
