@@ -10,6 +10,7 @@
 
 ### YDK:
 - 강사님과 함께 진행하는 ipynb 파일 및 데이터 모음
+- Python, pandas, numpy
 
 <br>
 
