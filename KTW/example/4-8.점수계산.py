@@ -1,6 +1,3 @@
-from multiprocessing.connection import answer_challenge
-
-
 def solution(nums):
     answer = 0
     score = 0
