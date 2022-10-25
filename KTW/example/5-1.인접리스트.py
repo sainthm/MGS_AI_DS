@@ -4,7 +4,7 @@ graph = [[]] for _ in rane(6)]
 
 for a, b in edges:
     graph[a].append(b)
-    graph[b].append[a]
+    graph[b].append(a)
 
 [
     [1, 2],
