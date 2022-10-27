@@ -1,1 +1,6 @@
-"Applications in which the training data comprises examples of the input vectors(X) along with their corresponding target vectors(y) are known as supervised learning problems. Cases in which the aim is to assign each input  vector to one of a finite number of discrete categories, are called classification problems."
+
+
+
+
+
+print(12/35)
