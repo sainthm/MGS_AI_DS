@@ -12,6 +12,10 @@
 - 강사님과 함께 진행하는 ipynb 파일 및 데이터 모음
 - Python, pandas, numpy
 
+#### spaceship-titanic
+- 머신러닝 입문 샘플 데이터
+- Data source: https://www.kaggle.com/competitions/spaceship-titanic/
+
 <br>
 
 ### Online lecture:
