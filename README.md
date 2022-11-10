@@ -24,6 +24,9 @@
 - 머신러닝 입문 샘플 데이터
 - Data source: https://www.kaggle.com/competitions/spaceship-titanic/
 
+#### ML:
+- Main ML project folder
+
 <br>
 
 ### Online lecture:
