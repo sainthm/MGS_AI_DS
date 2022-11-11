@@ -27,6 +27,9 @@
 #### ML:
 - Main ML project folder
 
+##### preparation:
+- ipynb file for ML project preparation
+
 <br>
 
 ### Online lecture:
