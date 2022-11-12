@@ -33,6 +33,10 @@
 ##### preparation:
 - ipynb file for ML project preparation
 
+#### pandas_data
+- Learning materials for pandas library
+
+
 <br>
 
 ### Online lecture:
