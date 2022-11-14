@@ -1,9 +1,5 @@
-# Upgrade python version using conda (miniforge)
-
-$ conda install python=3.11.0
-
-## Upgrade python version using python
-## python version update
-## $ brew update
-## $ brew install python3
-## $ brew upgrade python3
+sample['광진구'] = predict(train, '광진구')
+sample['동대문구'] = predict(train, '동대문구')
+sample['성동구'] = predict(train, '성동구')
+sample['중랑구'] = predict(train, '중랑구')
+sample
