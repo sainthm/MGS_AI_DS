@@ -1,5 +1,3 @@
-안녕하세요. AWS Secrets Manager에 DB Password를 정의하고, RDS에서 해당 Password를 참조하고 싶은데, 에러가 발생하고 있습니다 ㅠㅠ aws_db_instance.example.password에 작성한 data.aws_secretsmanager_secret_version.db_password.secret_id 이 부분이 잘못된 것 같은데 맞을까요 ? 코드는 아래와 같습니다. 
-
 resource "random_password" "password" {
   length           = 16
   special          = true
