@@ -80,3 +80,11 @@
 ### team2_crawlling_project
 
 <br>
+
+
+<br>
+
+
+## To-Be.
+### DL
+- 딥러닝 관련 폴더 생성 및 관리 예정!!!
