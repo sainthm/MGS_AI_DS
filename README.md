@@ -44,7 +44,7 @@
 ##### preparation:
 - ipynb file for ML project preparation
 
-#### pandas_data
+#### pandas_data:
 - Learning materials for pandas library
 
 
@@ -90,3 +90,5 @@
 
 ## To-Be.
 - 딥러닝 분야 중, 디테일한 사항(코드 베이스)들을 올릴 예정!!
+
+<br>
