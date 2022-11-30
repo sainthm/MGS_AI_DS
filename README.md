@@ -48,6 +48,10 @@
 - Learning materials for pandas library
 
 
+#### DL
+- Tensorflow(Keras) 관련 ipynb 파일
+
+
 <br>
 
 ### Online lecture:
@@ -84,7 +88,5 @@
 
 <br>
 
-
 ## To-Be.
-### DL
-- 딥러닝 관련 폴더 생성 및 관리 예정!!!
+- 딥러닝 분야 중, 디테일한 사항(코드 베이스)들을 올릴 예정!!
