@@ -93,7 +93,7 @@
 - DL kaggle data 관련 설명 내용
 - DL kaggle code 
 - CV 폴더 및 관련 파일 업로드 예정(다음주 월요일, 2022.12.12)
-- 
+    - Online study material: 한 번에 끝내는 컴퓨터 비전
 
 
 
