@@ -112,3 +112,7 @@
 ### ChatGPT
 - ChatGPT 관련 개념적인 내용 추가 예정
 - ChatGPT 관련 경험적인 내용 추가 예정
+
+
+### jupyter notebook
+- jupytrer notebook 관련 셋팅 내용 추가
