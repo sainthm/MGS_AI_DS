@@ -117,3 +117,4 @@
 ### jupyter notebook
 - jupytrer notebook 관련 셋팅 내용 추가
 - jupytrer notebook 관련 테마 설정 내용 추가
+    - 현재 테마 설정 내용: jt -t onedork -fs 12 -tfs 12 -ofs 12 -altp -nfs 12 -T -N
