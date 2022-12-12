@@ -116,3 +116,4 @@
 
 ### jupyter notebook
 - jupytrer notebook 관련 셋팅 내용 추가
+- jupytrer notebook 관련 테마 설정 내용 추가
