@@ -100,6 +100,7 @@
     - Online study material: 한 번에 끝내는 컴퓨터 비전
 - RS 폴더 및 관련 파일 업로드 예정(2022.12.15)
     - RS 샘플 코드 업로드 예정
+    - Surprise 패키지
 
 
 <br>
