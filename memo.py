@@ -1,18 +1,17 @@
-
-a = ("a", "b", "c")
-b = ("가", "나", "다")
+x = 50
 
 
-a1 = zip(a, b)
+def one():
+    x = 10
+    
+def two():
+    global x
+    x = 30
 
-# print(a1)
-# print(*a1)
+def three():
+    x=100
+    print(x)
 
-result1, result2 = zip(*a1)
-
-
-# print(result1)
-# print(result2)
-
-print(result1 == a)
-print(result2 == b)
+for func in [one, two, three]:
+    func()
+    print(x)
