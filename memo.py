@@ -1,17 +1,17 @@
-x = 50
+def double_args(func):
+    def wrapper(a, b):
+        return func(a * 2, b * 2)
+    return wrapper
 
 
-def one():
-    x = 10
-    
-def two():
-    global x
-    x = 30
+@double_args
+def multiply(a, b):
+    return a * b
 
-def three():
-    x=100
-    print(x)
 
-for func in [one, two, three]:
-    func()
-    print(x)
+multiply
+
+print(multiply)
+
+
+print(multiply(1, 5))
